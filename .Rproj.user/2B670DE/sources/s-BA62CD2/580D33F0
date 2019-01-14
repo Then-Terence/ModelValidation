@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547449999018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1947838887",
+    "id" : "580D33F0",
+    "lastKnownWriteTime" : 1547450028,
+    "last_content_update" : 1547450028310,
+    "path" : "~/GitHub/ModelValidation/Validation Dashboard.R",
+    "project_path" : "Validation Dashboard.R",
+    "properties" : {
+        "cursorPosition" : "23,29",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
